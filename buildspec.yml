@@ -35,5 +35,4 @@ artifacts:
     - appspec.yml
     - scripts/*
     - node_modules/**/*
-    - public/**/*
     - template-configuration.json
